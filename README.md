@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/flashscript/boilerplate-django-graphql-jwt?style=flat-square)](https://github.com/flashscript/boilerplate-django-graphql-jwt/issues)
 [![GitHub forks](https://img.shields.io/github/forks/flashscript/boilerplate-django-graphql-jwt?style=flat-square)](https://github.com/flashscript/boilerplate-django-graphql-jwt/network)
 [![GitHub stars](https://img.shields.io/github/stars/flashscript/boilerplate-django-graphql-jwt?style=flat-square)](https://github.com/flashscript/boilerplate-django-graphql-jwt/stargazers)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRuben_Boot)](https://twitter.com/intent/tweet?text=Wow:&@Ruben_Boot&url=https%3A%2F%2Fgithub.com%2Fflashscript%2Fboilerplate-django-graphql-jwt)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FRuben_Boot)](https://twitter.com/intent/tweet?text=@Ruben_Boot&url=https%3A%2F%2Fgithub.com%2Fflashscript%2Fboilerplate-django-graphql-jwt)
 
 ## Installation
 ```bash
