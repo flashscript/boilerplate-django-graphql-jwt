@@ -22,5 +22,9 @@ $ ./manage.py runserver
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+<<<<<<< HEAD
 Please make sure to update tests as appropriate.
 
+=======
+Please make sure to update tests as appropriate.
+>>>>>>> a12a46b58ba03bcf3bb9cbe958dcaf88b5981534
